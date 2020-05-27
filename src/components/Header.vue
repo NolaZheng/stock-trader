@@ -19,19 +19,6 @@
           </li>
 
           <div class="nav-item dropdown">
-            <!-- <a
-              class="nav-link dropdown-toggle"
-              @click="isActive = !isActive"
-              href="#"
-              id="navbarDropdown"
-              role="button"
-              data-toggle="dropdown"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Save & Load
-            </a> -->
-
             <b-nav-item-dropdown
               id="my-nav-dropdown"
               text="Save & Load"
